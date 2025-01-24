@@ -14,9 +14,14 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <div style="display: flex; align-items: center; gap: 10px;">
   <img align="center" alt="Rods-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rods-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+  <img align="center" alt="Rods-Cplusplus" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+
 </div>
+
+
 
 ##
 
