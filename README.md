@@ -27,4 +27,3 @@
   
 </div>
 
-![Snake animation](https://github.com/Rodriguesrods/Rodriguesrods/blob/output/github-contribution-grid-snake.svg)
