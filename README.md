@@ -1,3 +1,6 @@
+## 💻 Rodrigues
+###### Começando minha carreira como desenvolvedor backend, estou cursando engenharia de software e concluí o ensino técnico em informática pelo estado da Bahia.
+
 <div style="display: flex; justify-content: center; align-items: center;">
   <picture>
     <source
