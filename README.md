@@ -13,9 +13,12 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=Rodriguesrods&show_icons=true&theme=radical" alt="GitHub Stats" />
   </picture>
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguesrods&hide_progress=true&theme=radical" alt="Top Langs" />
 </div>
 
+ ## Linguagens e Framowrks
+ 
 <div style="display: inline_block"><br>
   <div style="display: flex; align-items: center; gap: 10px;">
   <img align="center" alt="Rods-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
