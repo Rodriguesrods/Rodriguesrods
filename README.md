@@ -1,44 +1,49 @@
-## 💻 Rodrigues
-###### Começando minha carreira como desenvolvedor backend, estou cursando engenharia de software e concluí o ensino técnico em informática pelo estado da Bahia.
+<h2 align="left">Rodrigues  👨‍💻</h2>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Rodriguesrods&show_icons=true&theme=dracula"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Rodriguesrods&show_icons=true&theme=light"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=Rodriguesrods&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </picture>
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguesrods&hide_progress=true&theme=radical" alt="Top Langs" />
+###
 
-  
+<p align="left">Programador backend</p>
+
+###
+
+<h3 align="left">Tecnologias</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
 </div>
 
- ## Linguagens e Framowrks
- 
-<div style="display: inline_block"><br>
-  <div style="display: flex; align-items: center; gap: 10px;">
-  <img align="center" alt="Rods-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+###
 
-  <img align="center" alt="Rods-Cplusplus" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+<h3 align="left">Redes</h3>
 
-  <img align="center" alt="Rods-Cplusplus" height="34" width="44" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/refs/heads/master/src/java/java_64x64.png">
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/joaopaulorodriguess/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="contatorodriguesrods@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/_rodrigues.jao/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
+###
 
+<img src="https://raw.githubusercontent.com/Rodrigues/Rodrigues/output/snake.svg" alt="Snake animation" />
 
-##
-
-<div> 
-  <a href="https://instagram.com/_rodrigues.jao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorodriguesrods@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaopaulorodriguess" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
+###
