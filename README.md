@@ -1,44 +1,41 @@
-<h2 align="left">Rodrigues  👨‍💻</h2>
+<h2 align="left" style="color:#a855f7;">Rodrigues 👨‍💻</h2>
 
-###
+<p align="left" style="color:#8878aa;">
+Desenvolvedor em evolução, focado na construção de aplicações modernas e interfaces bem estruturadas.
+</p>
 
-<p align="left">Programador backend</p>
+---
 
-###
-
-<h3 align="left">Tecnologias</h3>
-
-###
+<h3 align="left" style="color:#a855f7;">⚡ Tecnologias</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,vscode&theme=dark" />
 </div>
 
-###
+---
 
-<h3 align="left">Redes</h3>
-
-###
+<h3 align="left" style="color:#a855f7;">🌌 Conecte-se</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/joaopaulorodriguess/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=a855f7" />
   </a>
-  <a href="contatorodriguesrods@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+
+  <a href="mailto:contatorodriguesrods@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d0d1a?style=for-the-badge&logo=gmail&logoColor=a855f7" />
   </a>
+
   <a href="https://www.instagram.com/_rodrigues.jao/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-0d0d1a?style=for-the-badge&logo=instagram&logoColor=a855f7" />
   </a>
 </div>
 
+---
+
+<h3 align="left" style="color:#a855f7;">📊 Stats</h3>
+
+<div align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rodriguesrods&show_icons=true&bg_color=0d0d1a&title_color=a855f7&text_color=8878aa&icon_color=a855f7&border_color=1e1b40" />
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguesrods&layout=compact&bg_color=0d0d1a&title_color=a855f7&text_color=8878aa&border_color=1e1b40" />
+</div>
