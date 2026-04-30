@@ -37,5 +37,5 @@ Desenvolvedor em evolução, focado na construção de aplicações modernas e i
 <div align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguesrods&layout=compact&bg_color=0d0d1a&title_color=a855f7&text_color=8878aa&border_color=1e1b40&cache_seconds=1" />
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguesrods&layout=compact&bg_color=0d0d1a&title_color=a855f7&text_color=8878aa&border_color=1e1b40&cache_seconds=1" />
+
 </div>
